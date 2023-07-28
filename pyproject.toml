@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "picam"
+version = "0.1.0"
+description = "Telegram-bot for Raspberry Pi camera features"
+authors = ["vvrubel <53346960+vvrubel@users.noreply.github.com>"]
+readme = "README.md"
+licence = "MIT"
+repository = "https://github.com/vvrubel/picam"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

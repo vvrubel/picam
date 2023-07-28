@@ -1,0 +1,16 @@
+**/.env
+**/.aws
+**/.ssh
+**/.DS_Store
+**/__pycache__/**
+.git
+.gitignore
+.devcontainer
+.vscode
+.coverage
+.pytest_cache
+.mypy_cache
+.ruff_cache
+Dockerfile
+README.md
+docker-compose.yml

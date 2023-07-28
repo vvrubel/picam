@@ -1,0 +1,11 @@
+**/.env
+**/.aws
+**/.ssh
+**/.DS_Store
+**/__pycache__/**
+.git
+.vscode
+.coverage
+.pytest_cache
+.mypy_cache
+.ruff_cache
